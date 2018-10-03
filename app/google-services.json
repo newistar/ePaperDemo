@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930420607790",
+    "firebase_url": "https://epaperdemo-3fc5c.firebaseio.com",
+    "project_id": "epaperdemo-3fc5c",
+    "storage_bucket": "epaperdemo-3fc5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930420607790:android:a1a800e860cd163e",
+        "android_client_info": {
+          "package_name": "com.subratgupta.epaperdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930420607790-eahq11sqq7915lks660u6b5nvejpo58a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subratgupta.epaperdemo",
+            "certificate_hash": "2d7a76cb15c946421cf70febb3efc15ab66b07ff"
+          }
+        },
+        {
+          "client_id": "930420607790-9sdujamimer2k2hssa6rmjo335q0klg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUXDQnurSn3nXSrf5tDbsgf66AWDT8VY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930420607790-9sdujamimer2k2hssa6rmjo335q0klg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
